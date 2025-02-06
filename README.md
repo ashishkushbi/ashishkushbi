@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on freelance opportunities and full-time work.
 - 📫 How to reach me +91 8085529716, ashishkushbi@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: We can connect on LinkedIn - @ashishkush
+- ⚡ Fun fact: We can connect on LinkedIn - @ashishkushbi
 
 <!---
 ashishkushbi/ashishkushbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
