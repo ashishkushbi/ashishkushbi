@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashishkushbi 
+- 👋 Hi, I’m Ashish Kushwaha
 - 👀 Skilled and curious data enthusiast, converting raw data into actionable insights with storytelling methods.
-- 🌱 I’m skilled in Power BI, MySQL, Advanced Excel, Google Sheets, and Looker Studio.
+- 🌱 I’m skilled in Power BI, MySQL, Advanced Excel, Google Sheets, and Python.
 - 💞️ Looking to collaborate on freelance opportunities and full-time work.
 - 📫 How to reach me +91 8085529716, ashishkushbi@gmail.com
 - 😄 Pronouns: He/Him
